@@ -31,4 +31,6 @@
 ---
 
 
-![Typing](https://readme-typing-svg.herokuapp.com/?color=blue&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+Learner)
+  ![Typing](https://readme-typing-svg.herokuapp.com/?color=blue&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+Learner)
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
