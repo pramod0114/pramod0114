@@ -30,12 +30,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
