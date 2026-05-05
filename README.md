@@ -31,3 +31,4 @@
 ---
 
 
+![Typing](https://readme-typing-svg.herokuapp.com/?color=blue&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+Learner)
