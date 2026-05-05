@@ -36,7 +36,6 @@
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
-© 2026 Pramod Mahajan. All rights reserved.
 
-This code is for viewing purposes only.
-You are NOT allowed to copy, modify, or reuse this code without permission.
+
+© 2026 Pramod Mahajan. All rights reserved.
