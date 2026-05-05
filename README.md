@@ -1,6 +1,6 @@
 # 👋 About Me
 
-- 👨‍💻 My name is Pramod Mahajan
+- 👨‍💻 My name is Pramod Mahajan  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
 - 🎓 MCA Student
 - 💻 Full Stack Developer
 - 🎯 Interested in coding, gaming & movies
