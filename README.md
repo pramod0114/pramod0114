@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/pramod-mahajan-95957727b)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/pramodmahajan018?igsh=MXE2ZDc2dWFkOGV1ag==)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:mahajanpramod442@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=mahajanpramod442@gmail.com)
 
 ---
 
