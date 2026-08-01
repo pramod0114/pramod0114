@@ -1,7 +1,6 @@
 # 👋 About Me
 
 - 👨‍💻 My name is Pramod Mahajan  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVmOGM4azd4em00eDd0ZWxwbnE4cXRsbjdjMzh1OGdyOTFmOXVqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" width="150" align="right"/>
-- 🎓 MCA Student
 - 💻 Full Stack Developer
 - 💻 Software Engineer
 - 🎯 Interested in coding, gaming & movies
@@ -32,9 +31,7 @@
 ---
 
 
-  ![Typing](https://readme-typing-svg.herokuapp.com/?color=blue&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+Learner)
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 
