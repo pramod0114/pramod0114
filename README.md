@@ -1,7 +1,7 @@
 # 👋 About Me
 
 - 👨‍💻 My name is Pramod Mahajan  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVmOGM4azd4em00eDd0ZWxwbnE4cXRsbjdjMzh1OGdyOTFmOXVqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" width="150" align="right"/>
-- 💻 Full Stack Developer
+- 💻 Cloud Computing
 - 💻 Software Engineer
 - 🎯 Interested in coding, gaming & movies
 - 💬 Quote: "It's never too late to start"
